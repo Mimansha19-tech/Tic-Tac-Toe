@@ -1,4 +1,6 @@
-# Tic-Tac-Toe 🎮  (Live Demo-https://tic-tac-8qwlcxo23-mimansha-sharmas-projects.vercel.app/)
+# Tic-Tac-Toe 🎮  
+
+(Live Demo-https://tic-tac-8qwlcxo23-mimansha-sharmas-projects.vercel.app/)
 
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
